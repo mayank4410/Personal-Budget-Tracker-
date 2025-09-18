@@ -1,0 +1,15 @@
+{
+  "name": "personal-budget-tracker",
+  "version": "1.0.0",
+  "description": "A simple personal budget tracker web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "Mayank Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
